@@ -1,5 +1,8 @@
 # JCC: Juniper Config Converter
 
+For detailed steps on installing Rust and it's dependencies plus running the script, visit this article [Juniper_Configuration_Convertor_Display_set](https://xor.bitwiseoperator.net/Knowledge_Base/Network/Vendor/Juniper/SRX/Juniper_SRX_Configuration_Convertor_Display_set/)
+
+
 Convert Juniper configurations.
 
 Takes a Juniper configuration as displayed using `show configuration` and transforms it to one as displayed using `show configuration | display set`.
